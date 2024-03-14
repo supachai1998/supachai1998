@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gitlab**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang Hexagonal Architecture**
 
 - 👯 I’m looking to collaborate on **Golang project**
 
