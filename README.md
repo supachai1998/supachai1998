@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Golang, React, Python, JS, TS**
 
-- 📫 How to reach me **supachai_thng@hotmail.com**
+- 📫 How to reach me **supachai_thng_2024@outlook.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFgtR2hXBo/WiFqllGJUjWn3VZ4KfxHqA/view?utm_content=DAFgtR2hXBo&utm_campaign=designshare&utm_medium=link&utm_source=editor#1](https://www.canva.com/design/DAFgtR2hXBo/WiFqllGJUjWn3VZ4KfxHqA/view?utm_content=DAFgtR2hXBo&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 
