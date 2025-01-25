@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supachai Phopimai</h1>
-<h3 align="center">A passionate software developer in Thailand</h3>
+<h3 align="center">A passionate Golang & ML in Thailand</h3>
 
 - 🔭 I’m currently working on **Gitlab**
 
